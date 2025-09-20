@@ -82,3 +82,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - Dataset source: Ames Housing dataset  
 - Built with TensorFlow, scikit-learn, and pandas  
+
+
+## Screenshots of the Curves
+  <img width="1610" height="537" alt="Screenshot 2025-09-18 213104" src="https://github.com/user-attachments/assets/5b61f867-06ee-46a5-9bad-feef3e22b5c3" />
