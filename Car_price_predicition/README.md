@@ -178,3 +178,11 @@ with open('README.md', 'w') as f:
 
 [Content from above README.md]
 ''')
+
+
+
+<img width="929" height="599" alt="image" src="https://github.com/user-attachments/assets/e3ae3808-a1f5-4f9a-af80-94cc5ea090e6" />
+<img width="863" height="751" alt="Screenshot 2025-10-06 142409" src="https://github.com/user-attachments/assets/1c8fc0d0-0875-4dea-b345-a5b837b015eb" />
+<img width="747" height="496" alt="Screenshot 2025-10-06 142417" src="https://github.com/user-attachments/assets/13397565-025b-4d93-a15f-7183275e2e63" />
+
+
